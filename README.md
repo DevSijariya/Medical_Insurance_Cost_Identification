@@ -30,3 +30,6 @@ The project will encompass the following aspects:
 •	Model Development Choose appropriate machine learning algorithms, such as Linear Regression,Logistic Regresion machines
 •	Model Training and Validation  Split the dataset into training and validation sets, train the model, and validate its performance using suitable evaluation metrics.
 
+![image](https://github.com/DevSijariya/Medical_Insurance_Cost_Identification/assets/129308556/7a8aaf13-fdda-45e2-8ada-045607c2c103)
+
+
